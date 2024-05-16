@@ -1,7 +1,7 @@
 ### NAME : SOWMYA V
 ### REG NO : 212222110045
 
-# Update-the-Ultrasonic-sensor-value-in-Things Mate
+# EXPERIMENT 6 - Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
